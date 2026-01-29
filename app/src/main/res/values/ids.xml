@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Bottom Navigation IDs -->
+    <item name="nav_videos" type="id" />
+    <item name="nav_my_videos" type="id" />
+    <item name="nav_dashboard" type="id" />
+    <item name="nav_profile" type="id" />
+
+    <!-- Menu Action IDs -->
+    <item name="action_logout" type="id" />
+</resources>
